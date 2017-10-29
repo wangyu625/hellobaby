@@ -8,6 +8,9 @@ public class Hello {
         System.out.println("msy br you likr mr ");
         
         
-        aa a  a
+        for (int i = 0; i < 5; i++) {
+            System.out.println("hhh");
+
+        }
     }
 }
